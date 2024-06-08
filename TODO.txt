@@ -9,3 +9,7 @@ step by step of code and voice ofer explination
 2.1. Submission - Link to youtube and link to github repo
 
 (ask the viewer to try something before continuing, be engaging)
+
+
+teach the person how and what layouts are, assume they know how to build and submit app, but just focus
+on UI
