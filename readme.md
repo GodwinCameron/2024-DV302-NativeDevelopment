@@ -1,5 +1,5 @@
 <h1>Hi there!</h1>
-<p>If you came here from the Youtube video, welcome! If not, check out the video here:</p>
+<p>If you came here from the Youtube video, welcome! If not, check out the video here:https://www.youtube.com/watch?v=0qLwHGxRs7M&</p>
 </br>
 <h2>Getting Started:</h2>
 <p>1. Make sure you have GitHub for Desktop installed and updated</p>
